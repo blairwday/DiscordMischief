@@ -1,4 +1,4 @@
-const host = 'localhost';
+const host = '140.82.8.36';
 const port = 80;
 
 const requestListener = function (req, res) {
