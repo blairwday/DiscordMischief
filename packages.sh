@@ -10,3 +10,4 @@ npm install fs
 npm install sync-fetch
 npm install request
 npm install crypto
+npm install discord.js
